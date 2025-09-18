@@ -1,0 +1,20 @@
+# Python / Django
+# Ignore the virtual environment folder
+venv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore a local database file if you use it for testing
+db.sqlite3
+
+# Node / React
+# Ignore the massive node_modules folder in the frontend
+frontend/node_modules/
+
+# Ignore the production build folder
+frontend/build/
+
+# Ignore local environment variables
+.env.local
