@@ -2,7 +2,7 @@
 
 A full-stack web application for real-time stock price tracking.
 
-**Live Demo**: **[https://stock-watcher-portfolio.vercel.app](https://www.google.com/search?q=)**
+**Live Demo**: **(https://stock-watcher-portfolio.vercel.app)**
 
  ---
 
